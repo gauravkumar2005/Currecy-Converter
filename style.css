@@ -23,7 +23,8 @@ h2{
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
-    width: 40vh;
+    width: 100%;
+    max-width: 400px;
     display: flex;
 }
 
